@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zengyang Li (李增扬) / Homepage"
+title                    : "Zengyang Li / Homepage"
 title_separator          : "-"
 name                     : &name "Zengyang Li"
 description              : &description "Zengyang Li's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
