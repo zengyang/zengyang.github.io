@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Pfde0K0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
   researchgate     : “https://www.researchgate.net/profile/Zengyang-Li/research”
