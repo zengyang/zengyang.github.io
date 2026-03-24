@@ -12,7 +12,7 @@ main:
     url: /   
 
   - title: "English"
-    url: /abouten/    
+    url: /en/    
       
   - title: "Guide"
     url: /markdown/
