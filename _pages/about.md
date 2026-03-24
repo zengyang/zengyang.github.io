@@ -20,9 +20,9 @@ redirect_from:
 
 工作经历
 ======
-- 2018-present, Associate Professor, School of Computer Science, Central China Normal University, Wuhan, China
-- 2015-2018, Lecturer, School of Computer Science, Wuhan University, Wuhan, China
-- 2007-2010, Senior Engineer, ZTE Corporation, Shenzhen, China
+- 2018至今, 副教授, 华中师范大学计算机学院软件工程系
+- 2015-2018, 讲师, 武汉大学计算机学院软件工程系
+- 2007-2010, 高级工程师，中兴通讯股份有限公司（深圳）
 
 教育经历
 ======
