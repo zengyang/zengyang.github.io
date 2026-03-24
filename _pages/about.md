@@ -32,9 +32,8 @@ Zengyang Li is an Associate Professor with the Department of Software Engineerin
 
 论文著作（Publications）
 ======
-Google Scholar Page is https://scholar.google.com/citations?user=Pfde0K0AAAAJ&hl=en .
-
-ResearchGate Page is https://www.researchgate.net/profile/Zengyang-Li/research .
+- Google Scholar Page is https://scholar.google.com/citations?user=Pfde0K0AAAAJ&hl=en .
+- ResearchGate Page is https://www.researchgate.net/profile/Zengyang-Li/research .
 
 **期刊论文（Journal Articles）**
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, DOI: http://dx.doi.org/10.1145/3785148. (软件工程CCF A，SCI一区)
