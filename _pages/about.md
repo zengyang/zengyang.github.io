@@ -31,7 +31,11 @@ redirect_from:
 
 学术服务（Academic Services）
 ======
-- Reviewer for Journals: ACM TOSEM, IEEE TSC, JSS, IST, IEEE TR, IET Software, etc.
+- 中国计算机学会（CCF）高级会员、软件工程专委会执行委员、服务计算专委会执行委员、开源发展技术委员会执行委员、传播工委委员
+- 曾任CCF YOCSEF 武汉AC委员（2019-2024）
+- 武汉计算机软件工程学会会员
+- Reviewer for Journals: ACM TOSEM, IEEE TSC, JSS, IST, IEEE TR, IEEE TCSS, JSEP, SPE, IET Software, FCS, IJSEKE etc.
+- PC Member: SEKE 2021-2026、SEAA 2021-2025、CEISEE 2023-2025
 
 论文著作（Publications）
 ======
