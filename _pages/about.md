@@ -11,11 +11,12 @@ redirect_from:
 
 研究方向
 ======
-- Multilingual Software
-- Intelligent Software Engineering
-- Software Maintenance and Evolution
-- Software Architecture
-- AI for Education
+- 多编程语言软件
+- 智能化软件工程
+- 新兴领域的软件工程
+- 软件体系结构
+- 智能化教育
+- 软件工程与网络科学交叉研究
 
 工作经历
 ======
@@ -25,9 +26,9 @@ redirect_from:
 
 教育经历
 ======
-- 2011-2015, PhD, Software Engineering, University of Groningen, The Netherlands
-- 2005-2007, Master, Computer Software and Thoery, Wuhan University, China
-- 2001-2005, Bachelor, Information and Computing Science, Wuhan University, China
+- 2011-2015, 博士, 荷兰格罗宁根大学（University of Groningen），软件工程
+- 2005-2007, 硕士, 武汉大学，软件工程国家重点实验室，计算机软件与理论
+- 2001-2005, 本科, 武汉大学，数学与统计学院，信息与计算科学
 
 学术服务
 ======
