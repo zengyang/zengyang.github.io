@@ -33,6 +33,7 @@ Zengyang Li is an Associate Professor with the Department of Software Engineerin
 论文著作（Publications）
 ======
 Google Scholar Page is https://scholar.google.com/citations?user=Pfde0K0AAAAJ&hl=en .
+
 ResearchGate Page is https://www.researchgate.net/profile/Zengyang-Li/research .
 
 **期刊论文（Journal Articles）**
