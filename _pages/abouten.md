@@ -7,7 +7,7 @@ redirect_from:
   - /abouten.html
 ---
 
-
+**Zengyang Li** is an Associate Professor with the Department of Software Engineering of the School of Computer Science at Central China Normal University, Wuhan, China. His research interests are in Multilingual Software, Software Architecture, SE4AI, AI4SE, AI4EDU. He has published 80+ papers in prestigious journals (e.g., TOSEM, EMSE, JSS, IST, ASEJ), conferences (ASE, ICSE, ICSME, ESEM, ICPC), and books.
 
 Research Interests
 ======
