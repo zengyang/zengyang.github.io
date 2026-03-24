@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-研究方向（Research Interests）
+研究方向
 ======
 - Multilingual Software
 - Intelligent Software Engineering
