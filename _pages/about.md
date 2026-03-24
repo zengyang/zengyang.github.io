@@ -26,7 +26,7 @@ redirect_from:
 - 2015-2018, 讲师, 武汉大学，计算机学院，软件工程系
 - 2007-2010, 高级工程师，中兴通讯股份有限公司（深圳）
 
-教育经历与
+教育经历
 ======
 - 2011-2015, 博士, 荷兰格罗宁根大学（University of Groningen），软件工程
 - 2005-2007, 硕士, 武汉大学，软件工程国家重点实验室，计算机软件与理论
@@ -45,7 +45,7 @@ redirect_from:
 - [Google Scholar主页](https://scholar.google.com/citations?user=Pfde0K0AAAAJ&hl=en)
 - [ResearchGate主页](https://www.researchgate.net/profile/Zengyang-Li/research)
 
-以下论文带*为通讯作者
+以下论文带*为通讯作者，引用次数来自Google Scholar
 
 **期刊论文**
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, DOI: http://dx.doi.org/10.1145/3785148. (软件工程CCF A，SCI一区)
@@ -86,7 +86,7 @@ redirect_from:
 **会议论文**
 1. S. Gao, Z. Wang, Y. Zhao, **Z. Li**, Enhancing Edge Microservice Deployment Efficiency with an LLM-empowered Multi-Agent Framework, in: Proceedings of the 32nd International Conference on Neural Information Processing (ICONIP ’25), 2025. (软件工程CCF C)
 1. **Z. Li**, T. Jiang, H. Liu, S. Wang, Sentiment Analysis for Bug Resolution in Multi-language Deep Learning Frameworks, in: Proceedings of the 10th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA’25), 2025, pp. 193-198.
-1. B. Zhang, P. Liang, Q. Feng, Y. Fu, **Z. Li**, Copilot-in-the-Loop: Fixing Code Smells in Copilot-Generated Python Code using Copilot, in: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE’24), NIER track, ACM, 2024, pp. 2230-2234. (软件工程CCF A)
+1. B. Zhang, P. Liang, Q. Feng, Y. Fu, **Z. Li**, Copilot-in-the-Loop: Fixing Code Smells in Copilot-Generated Python Code using Copilot, in: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE’24), NIER track, ACM, 2024, pp. 2230-2234. (软件工程CCF A，NIER track)
 1. R. Mo, Y. Jiang, W. Zhan, D. Wang, **Z. Li**, A Comprehensive Study on Code Clones in Automated Driving Software, in: Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE’23), 2023. (软件工程CCF A)
 1. **Z. Li**, S. Wang, W. Wang, P. Liang, R. Mo, B. Li, Understanding Bugs in Multi-Language Deep Learning Frameworks, in: Proceedings of the 31st International Conference on Program Comprehension (ICPC’23), 2023, pp. 328-338. (软件工程CCF B)
 1. **Z. Li**, W. Wang, S. Wang, P. Liang, R. Mo, Understanding Resolution of Multi-Language Bugs: An Empirical Study on Apache Projects, in: Proceedings of the 17th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM’23), 2023, pp. 1-11. (软件工程CCF B)
@@ -110,15 +110,15 @@ redirect_from:
 1. C. Cheng, B. Li, **Z. Li***, P. Liang, Automatic Detection of Public Development Projects in Large Open Source Ecosystems: An Exploratory Study on GitHub, in: Proceedings of the 30th International Conference on Software Engineering and Knowledge Engineering (SEKE'18), 2018, pp. 193-198. (软件工程CCF C)
 1. **Z. Li**, P. Liang, B. Li, Relating Alternate Modifications to Defect Density in Software Development, in: Proceedings of the 39th International Conference on Software Engineering Companion (ICSE'17), 2017, pp. 308-310. (软件工程CCF A类会议POSTER) 
 1. X. He, P. Avgeriou, P. Liang, **Z. Li**, Technical Debt in MDE: A Case Study on GMF/EMF-Based Projects, in: Proceedings of the ACM/IEEE 19th International Conference on Model Driven Engineering Languages and Systems (MODELS'16), 2016, pp. 162-172. (软件工程CCF B)
-1. **Z. Li**, P. Liang, P. Avgeriou, Architectural technical debt identification based on architecture decisions and change scenarios, in: Proceedings of the 12th Working IEEE/IFIP Conference on Software Architecture (WICSA'15), 2015, pp. 65-74. (软件体系结构顶级国际会议)
+1. **Z. Li**, P. Liang, P. Avgeriou, Architectural technical debt identification based on architecture decisions and change scenarios, in: Proceedings of the 12th Working IEEE/IFIP Conference on Software Architecture (WICSA'15), 2015, pp. 65-74. (软件体系结构顶级国际会议，被引90余次)
 1. M. Shahin, P. Liang, **Z. Li**, Do Architectural Design Decisions Improve the Understanding of Software Architecture? Two Controlled Experiments, in: Proceedings of the 22nd International Conference on Program Comprehension (ICPC'14), 2014, pp. 3-13. (软件工程CCF B)
-1. **Z. Li**, P. Liang, P. Avgeriou, N. Guelfi, A. Ampatzoglou, An Empirical Investigation of Modularity Metrics for Indicating Architectural Technical Debt, in: Proceedings of the 10th International Conference on the Quality of Software Architectures (QoSA'14), 2014, pp. 119-128. (软件体系结构顶级国际会议)
+1. **Z. Li**, P. Liang, P. Avgeriou, N. Guelfi, A. Ampatzoglou, An Empirical Investigation of Modularity Metrics for Indicating Architectural Technical Debt, in: Proceedings of the 10th International Conference on the Quality of Software Architectures (QoSA'14), 2014, pp. 119-128. (软件体系结构顶级国际会议，被引90余次)
 1. M. Shahin, P. Liang, **Z. Li**, Recovering Software Architectural Knowledge from Documentation using Conceptual Model, in: Proceeding of the 25th International Conference on Software Engineering and Knowledge Engineering (SEKE'13), 2013, pp. 556-561. (软件工程CCF C)
 1. M. Shahin, P. Liang, **Z. Li**, Architectural design decision visualization for architecture design: preliminary results of a controlled experiment, Proceedings of the 5th European Conference on Software Architecture: Companion Volume, 2011, pp. 5-12.
 
 **著作章节**
 1. **Z. Li**, P. Liang, P. Avgeriou, Architecture viewpoints for documenting architectural technical debt, in: I. Mistrik, R. Soley, N. Ali, J. Grundy, B. Tekinerdogan (Eds.) Software Quality Assurance in Large Scale and Complex Software-intensive Systems, Elsevier, 2015, pp. 85-132. (Elsevier出版英文书章节)
-1. **Z. Li**, P. Liang, P. Avgeriou, Architectural debt management in value-oriented architecting, in: I. Mistrik, R. Bahsoon, R. Kazman, Y. Zhang (Eds.) Economics-Driven Software Architecture, Elsevier, 2014, pp. 183-204. (Elsevier出版英文书章节)
+1. **Z. Li**, P. Liang, P. Avgeriou, Architectural debt management in value-oriented architecting, in: I. Mistrik, R. Bahsoon, R. Kazman, Y. Zhang (Eds.) Economics-Driven Software Architecture, Elsevier, 2014, pp. 183-204. (Elsevier出版英文书章节，被引90余次)
 
 
 
