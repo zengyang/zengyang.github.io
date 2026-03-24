@@ -41,7 +41,7 @@ Publications
 
 **Journal Articles**
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, DOI: http://dx.doi.org/10.1145/3785148. 
-1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (1020 Citations，ESI Highly Cited Paper)
+1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (1020+ Citations，ESI Highly Cited Paper)
 1. **Z. Li**, P. Liang, P. Avgeriou, Application of knowledge-based approaches in software architecture: A systematic mapping study, Information and Software Technology, 2013, 55(5), pp. 777-794. 
 1. **Z. Li**, X. Zhang, W. Wang, P. Liang, R. Mo, H. Liu, Automated Detection of Inter-Language Design Smells in Multi-Language Deep Learning Frameworks, Information and Software Technology, 2025,179, 107656. 
 1. W. Cheng, **Z. Li***, P. Liang, R. Mo, H. Liu, Unveiling Security Weaknesses in Autonomous Driving Systems: An In-Depth Empirical Study, Information and Software Technology, 2025, 182, 107709. 
@@ -62,7 +62,7 @@ Publications
 1. H. Liu, S. Zhang, C.W. Wu, X. Wu, **Z. Li**, J. Xu, Intralayer Synchronization in Heterogeneous Multiplex Dynamical Networks Based on Spectral Graph Theory, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023, pp. 1-12. 
 1. **Z. Li**, X. Qi, Q. Yu, P. Liang, R. Mo, C. Yang, Exploring Multi-Programming-Language Commits and Their Impacts on Software Quality: An Empirical Study on Apache Projects, Journal of Systems and Software, 2022, 194, 111508. 
 1. H. Liu, J. Li, **Z. Li***, Z. Zeng, J. Lü, Intralayer Synchronization of Multiplex Dynamical Networks via Pinning Impulsive Control, IEEE Transactions on Cybernetics, 2022, 52(4), pp. 2110-2122. 
-1. R. Mo, S. Wei, Q. Feng, **Z. Li**, An exploratory study of bug prediction at the method level, Information and Software Technology, 2022, 144, pp. 106794. 
+1. R. Mo, S. Wei, Q. Feng, **Z. Li**, An exploratory study of bug prediction at the method level, Information and Software Technology, 2022, 144, 106794. 
 1. H. Liu, Y. Li, **Z. Li**, J. Lu, J.-A. Lu, Topology Identification of Multi-link Complex Dynamical Networks via Adaptive Observers Incorporating Chaotic Exosignals, IEEE Transactions on Cybernetics, 2022, 52(7), pp. 6255-6268. 
 1. C. Cheng, B. Li, **Z. Li**, P. Liang, X. Yang, An In-depth Study of the Effects of Methods on the Dataset Selection of Public Development Projects, IET Software, 2022, 16(2), pp. 146-166. 
 1. C. Cheng, B. Li, **Z. Li**, P. Liang, X. Han, J. Zhang, Improving Generality and Accuracy of Existing Public Development Project Selection Methods: A Study on GitHub Ecosystem, Automated Software Engineering, 2022, 29(1), pp. Article 33: 31-43. 
