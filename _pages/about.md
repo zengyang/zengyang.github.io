@@ -10,28 +10,28 @@ redirect_from:
 
 Zengyang Li is an Associate Professor with the Department of Software Engineering of the School of Computer Science at Central China Normal University, Wuhan, China. His research interests are in Multilingual Software, Software Architecture, SE4AI, AI4SE, AI4EDU. He has published 80+ papers in prestigious journals (e.g., TOSEM, EMSE, JSS, IST, ASEJ), conferences (ASE, ICSE, ICSME, ESEM, ICPC), and books.
 
-研究方向
+研究方向（Research Interests）
 ======
 - Multi-language Software System
 - Intelligent Software Engineering
 - Software Maintenance and Evolution
 - AI for Education
 
-工作经历
+工作经历（Work Experience）
 ======
 - 2018-present, Associate Professor, School of Computer Science, Central China Normal University, Wuhan, China
 - 2015-2018, Lecturer, School of Computer Science, Wuhan University, Wuhan, China
 - 2007-2010, Senior Engineer, ZTE Corporation, Shenzhen, China
 
-教育经历
+教育经历（Education）
 ======
 - 2011-2015, PhD, Software Engineering, University of Groningen, The Netherlands
 - 2005-2007, Master, Computer Software and Thoery, Wuhan University, China
 - 2001-2005, Bachelor, Information and Computing Science, Wuhan University, China
 
-论文著作
+论文著作（Publications）
 ======
-**期刊论文**
+**期刊论文（Journal Articles）**
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, DOI: http://dx.doi.org/10.1145/3785148. (软件工程CCF A，SCI一区)
 1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (软件工程CCF B，SCI二区，Google Scholar上被引1020余次，ESI高被引论文)
 1. **Z. Li**, P. Liang, P. Avgeriou, Application of knowledge-based approaches in software architecture: A systematic mapping study, Information and Software Technology, 2013, 55(5), pp. 777-794. (软件工程CCF B，SCI二区，Google Scholar上被引100余次)
@@ -67,7 +67,7 @@ Zengyang Li is an Associate Professor with the Department of Software Engineerin
 1. C. Cheng, B. Li, **Z. Li***, Y. Zhao, F. Liao, Developer Role Evolution in Open Source Software Ecosystem: An Explanatory Study on GNOME, Journal of Computer Science and Technology, 2017, 32(2), pp. 396-414. (软件工程CCF B)
 1. R. Yang, B. Li, J. Wang, **Z. Li***, Y. Hu, Reusing Service Process Fragments with A Consensus Between Service Providers and Users, Chinese Journal of Electronics, 2016, 25(4), pp. 648-657.  (SCI)
 
-**会议论文**
+**会议论文（Conference Papers）**
 1. S. Gao, Z. Wang, Y. Zhao, **Z. Li**, Enhancing Edge Microservice Deployment Efficiency with an LLM-empowered Multi-Agent Framework, in: Proceedings of the 32nd International Conference on Neural Information Processing (ICONIP ’25), 2025. (软件工程CCF C)
 1. **Z. Li**, T. Jiang, H. Liu, S. Wang, Sentiment Analysis for Bug Resolution in Multi-language Deep Learning Frameworks, in: Proceedings of the 10th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA’25), 2025, pp. 193-198.
 1. B. Zhang, P. Liang, Q. Feng, Y. Fu, **Z. Li**, Copilot-in-the-Loop: Fixing Code Smells in Copilot-Generated Python Code using Copilot, in: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE’24), NIER track, ACM, 2024, pp. 2230-2234. (软件工程CCF A)
@@ -100,7 +100,7 @@ Zengyang Li is an Associate Professor with the Department of Software Engineerin
 1. M. Shahin, P. Liang, **Z. Li**, Recovering Software Architectural Knowledge from Documentation using Conceptual Model, in: Proceeding of the 25th International Conference on Software Engineering and Knowledge Engineering (SEKE'13), 2013, pp. 556-561. (软件工程CCF C)
 1. M. Shahin, P. Liang, **Z. Li**, Architectural design decision visualization for architecture design: preliminary results of a controlled experiment, Proceedings of the 5th European Conference on Software Architecture: Companion Volume, 2011, pp. 5-12.
 
-**著作章节**
+**著作章节（Book Chapters）**
 1. **Z. Li**, P. Liang, P. Avgeriou, Architecture viewpoints for documenting architectural technical debt, in: I. Mistrik, R. Soley, N. Ali, J. Grundy, B. Tekinerdogan (Eds.) Software Quality Assurance in Large Scale and Complex Software-intensive Systems, Elsevier, 2015, pp. 85-132. (Elsevier出版英文书章节)
 1. **Z. Li**, P. Liang, P. Avgeriou, Architectural debt management in value-oriented architecting, in: I. Mistrik, R. Bahsoon, R. Kazman, Y. Zhang (Eds.) Economics-Driven Software Architecture, Elsevier, 2014, pp. 183-204. (Elsevier出版英文书章节)
 
