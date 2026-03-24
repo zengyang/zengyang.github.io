@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 
+Zengyang Li is an Associate Professor with the Department of Software Engineering of the School of Computer Science at Central China Normal University, Wuhan, China. His research interests are in Multilingual Software, Software Architecture, SE4AI, AI4SE, AI4EDU. He has published 80+ papers in prestigious journals (e.g., TOSEM, EMSE, JSS, IST, ASEJ), conferences (ASE, ICSE, ICSME, ESEM, ICPC), and books.
+
+
+
 工作经历
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
