@@ -14,5 +14,5 @@ main:
   - title: "English"
     url: /en/    
       
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
