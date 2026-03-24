@@ -1,5 +1,5 @@
 ---
-permalink: /abouten/
+permalink: /en/
 title: ""
 author_profile: true
 redirect_from: 
