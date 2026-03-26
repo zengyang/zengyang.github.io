@@ -38,7 +38,7 @@ redirect_from:
 - 曾任CCF YOCSEF 武汉AC委员（2019-2024）
 - 武汉计算机软件工程学会会员
 - Reviewer for Journals: ACM TOSEM, IEEE TSC, JSS, IST, IEEE TR, IEEE TCSS, JSEP, SPE, IET Software, FCS, IJSEKE etc.
-- PC Member: SEKE 2021-2026、SEAA 2021-2025、CEISEE 2023-2025
+- PC Member: SEKE 2021-2026、SEAA 2021-2026的STREAM Special Session、CEISEE 2023-2025
 
 论文著作
 ======
