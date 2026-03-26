@@ -32,7 +32,7 @@ Education
 Academic Services
 ======
 - Reviewer for Journals: ACM TOSEM, IEEE TSC, JSS, IST, IEEE TR, IEEE TCSS, JSEP, SPE, IET Software, FCS, IJSEKE etc.
-- PC Member: SEKE 2021-2026、SEAA 2021-2025、CEISEE 2023-2025
+- PC Member: SEKE 2021-2026、SEAA 2021-2026 STREAM Special Session、CEISEE 2023-2025
 
 Publications
 ======
