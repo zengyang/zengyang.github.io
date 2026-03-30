@@ -14,7 +14,7 @@ redirect_from:
 研究方向
 ======
 - 多编程语言软件（聚焦于由跨语言交互引起的质量问题）
-- 智能化软件工程（使用通用大模型、代码大模型、深度学习等AI技术解决软件工程问题）
+- 智能化软件工程（使用通用大模型、代码大模型、深度学习、智能体等AI技术解决软件工程问题）
 - 新兴领域的软件工程（深度学习框架、自动驾驶、工业互联网等领域的软件工程问题）
 - 智能化教育（AI+教育、教育信息化软件系统等）
 - 软件体系结构（维护和演化问题）
@@ -32,6 +32,19 @@ redirect_from:
 - 2005-2007, 硕士, 武汉大学，软件工程国家重点实验室，计算机软件与理论
 - 2001-2005, 本科, 武汉大学，数学与统计学院，信息与计算科学
 
+主讲课程
+======
+- 本科生课程：算法设计与分析、软件构造
+-	研究生课程：现代软件体系结构
+
+学生指导
+======
+- 毕业硕士生就职于知名ICT企业、新能源汽车企业、国有银行、电信运行商、高校，或升学至中科院、武汉大学攻读博士学位。
+-	曾担任2018级1803班班主任和2021级华为基地班班主任。
+-	指导学生参加“中国软件杯”大学生软件设计大赛和中国大学生计算机设计大赛等学科竞赛，获得国家级奖项多项。
+-	指导的硕士生多人获得国家奖学金。
+-	指导本科生发表了CCF B类期刊论文。
+
 学术服务
 ======
 - 中国计算机学会（CCF）高级会员、软件工程专委会执行委员、服务计算专委会执行委员、开源发展技术委员会执行委员、传播工委委员
@@ -40,12 +53,18 @@ redirect_from:
 - Reviewer for Journals: ACM TOSEM, IEEE TSC, JSS, IST, IEEE TR, IEEE TCSS, JSEP, SPE, IET Software, FCS, IJSEKE etc.
 - PC Member: SEKE 2021-2026、SEAA 2021-2026 STREAM Special Session、CEISEE 2023-2025
 
+科研项目
+======
+- 主持和参与各类科研项目十余项，其中主持国家自然科学基金1项、省部级基金4项、横向项目1项、全国重点实验室开放基金1项，参与国家自然科学基金4项、国家重点研发计划课题1项。
+
 论文著作
 ======
+发表论文80余篇，其中CCF A、B类及中科院SCI 一、二区论文40余篇，含ESI高被引论文2篇。据Google Scholar统计，总被引2400余次（2026年3月），单篇最高被引1000余次。申请专利软著多项。
+
 - [Google Scholar主页](https://scholar.google.com/citations?user=Pfde0K0AAAAJ&hl=en)
 - [ResearchGate主页](https://www.researchgate.net/profile/Zengyang-Li/research)
 
-以下论文带*为通讯作者，引用次数来自Google Scholar
+以下论文带*为通讯作者，引用次数来自Google Scholar，分区为中科院SCI分区
 
 **期刊论文**
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, DOI: http://dx.doi.org/10.1145/3785148. (软件工程CCF A，SCI一区)
