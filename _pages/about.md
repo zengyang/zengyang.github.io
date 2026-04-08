@@ -62,7 +62,7 @@ redirect_from:
 - [Google Scholar主页](https://scholar.google.com/citations?user=Pfde0K0AAAAJ&hl=en)
 - [ResearchGate主页](https://www.researchgate.net/profile/Zengyang-Li/research)
 
-以下论文带*****为通讯作者，引用次数来自Google Scholar，分区为中科院SCI分区
+以下论文带*为通讯作者，引用次数来自Google Scholar，分区为中科院SCI分区
 
 **期刊论文**
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, DOI: http://dx.doi.org/10.1145/3785148. (软件工程CCF A，SCI一区)
