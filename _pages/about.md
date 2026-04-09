@@ -12,6 +12,8 @@ redirect_from:
 
 办公地点：华中师范大学南湖校区综合楼7106室。
 
+邮箱地址：zengyangli@ccnu.edu.cn
+
 
 
 
