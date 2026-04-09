@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "李增扬 (Zengyang Li)"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Associate Professor in Software Engineering"
   location         : "Wuhan, China"
   employer         : "Central China Normal University"
