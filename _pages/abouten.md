@@ -25,7 +25,7 @@ Work Experience
 
 Education
 ======
-- 2011-2015, PhD, Software Engineering, University of Groningen, The Netherlands
+- 2011-2015, PhD, Software Engineering, University of Groningen, The Netherlands (2012.2-2012.4, visited University of Luxembourg)
 - 2005-2007, Master, Computer Software and Thoery, Wuhan University, China
 - 2001-2005, Bachelor, Information and Computing Science, Wuhan University, China
 
