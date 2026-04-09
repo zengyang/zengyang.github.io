@@ -28,7 +28,7 @@ redirect_from:
 
 教育经历
 ======
-- 2011-2015, 博士, 荷兰格罗宁根大学（University of Groningen），软件工程。2012.2-2012.4期间, 卢森堡大学（University of Luxembourg）访学。
+- 2011-2015, 博士, 荷兰格罗宁根大学（University of Groningen），软件工程。2012.2-2012.4, 卢森堡大学（University of Luxembourg）访学。
 - 2005-2007, 硕士, 武汉大学，软件工程国家重点实验室，计算机软件与理论。
 - 2001-2005, 本科, 武汉大学，数学与统计学院，信息与计算科学。
 
