@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "基本信息"
 author_profile: true
 redirect_from: 
   - /about/
