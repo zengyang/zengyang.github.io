@@ -70,6 +70,7 @@ redirect_from:
 以下论文带*为通讯作者，引用次数来自Google Scholar，分区为中科院SCI分区
 
 **期刊论文**
+1. **Z. Li**, Y. Li, B. Huang, P. Liang, R. Mo, H. Liu, Y. Ma, Fine-Tuning Code Language Models to Detect Cross-Language Bugs, ACM Transactions on Software Engineering and Methodology, 2026, pp.1-41. (In Press, 软件工程CCF A，SCI一区)
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, DOI: http://dx.doi.org/10.1145/3785148. (软件工程CCF A，SCI一区)
 1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (软件工程CCF B，SCI二区，Google Scholar上被引1030余次，ESI高被引论文)
 1. **Z. Li**, P. Liang, P. Avgeriou, Application of knowledge-based approaches in software architecture: A systematic mapping study, Information and Software Technology, 2013, 55(5), pp. 777-794. (软件工程CCF B，SCI二区，Google Scholar上被引100余次)
