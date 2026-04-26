@@ -68,7 +68,7 @@ redirect_from:
 
 **期刊论文**
 1. **Z. Li**, Y. Li, B. Huang, P. Liang, R. Mo, H. Liu, Y. Ma, Fine-Tuning Code Language Models to Detect Cross-Language Bugs, ACM Transactions on Software Engineering and Methodology, 2026, pp.1-41, DOI: https://doi.org/10.1145/3811920. (软件工程CCF A，SCI一区)
-1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, DOI: http://dx.doi.org/10.1145/3785148. (软件工程CCF A，SCI一区)
+1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, pp.1-41, DOI: http://dx.doi.org/10.1145/3785148. (软件工程CCF A，SCI一区)
 1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (软件工程CCF B，SCI二区，Google Scholar上被引1030余次，ESI高被引论文)
 1. **Z. Li**, P. Liang, P. Avgeriou, Application of knowledge-based approaches in software architecture: A systematic mapping study, Information and Software Technology, 2013, 55(5), pp. 777-794. (软件工程CCF B，SCI二区，Google Scholar上被引100余次)
 1. **Z. Li**, B. Huang, Y. Li, R. Mo, P. Liang, H. Liu, Y. Ma, Unveiling Code Clones in the Eclipse IIoT Software Ecosystem, Journal of System and Software, 2026, 112869. (软件工程CCF B，SCI二区)
