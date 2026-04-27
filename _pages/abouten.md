@@ -44,7 +44,7 @@ Publications
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2025, DOI: http://dx.doi.org/10.1145/3785148. 
 1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (1020+ Citations，ESI Highly Cited Paper)
 1. **Z. Li**, P. Liang, P. Avgeriou, Application of knowledge-based approaches in software architecture: A systematic mapping study, Information and Software Technology, 2013, 55(5), pp. 777-794.
-1. **Z. Li**, B. Huang, Y. Li, R. Mo, P. Liang, H. Liu, Y. Ma, Unveiling Code Clones in the Eclipse IIoT Software Ecosystem, Journal of System and Software, 2026, 112869.
+1. **Z. Li**, B. Huang, Y. Li, R. Mo, P. Liang, H. Liu, Y. Ma, Unveiling Code Clones in the Eclipse IIoT Software Ecosystem, Journal of System and Software, 2026, 239, 112869.
 1. **Z. Li**, X. Zhang, W. Wang, P. Liang, R. Mo, H. Liu, Automated Detection of Inter-Language Design Smells in Multi-Language Deep Learning Frameworks, Information and Software Technology, 2025,179, 107656. 
 1. W. Cheng, **Z. Li***, P. Liang, R. Mo, H. Liu, Unveiling Security Weaknesses in Autonomous Driving Systems: An In-Depth Empirical Study, Information and Software Technology, 2025, 182, 107709. 
 1. B. Zhang, P. Liang, X. Zhou, X. Zhou, D. Lo, Q. Feng, **Z. Li**, L. Li, A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection, ACM Transactions on Software Engineering and Methodology, 2026, In press.
