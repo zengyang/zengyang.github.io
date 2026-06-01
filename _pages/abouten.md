@@ -55,7 +55,7 @@ Publications
 1. R. Mo, D. Wang, W. Zhan, Y. Jiang, Y. Wang, Y. Zhao, **Z. Li**, Y. Ma, Assessing and Analyzing the Correctness of GitHub Copilot’s Code Suggestions, ACM Transactions on Software Engineering and Methodology, 2025, 34(7), Article No.: 194, Pages 1-32. 
 1. Y. Jiang, R. Mo, W. Zhan, D. Wang, **Z. Li**, Y. Ma, Leveraging Modular Architecture for Bug Characterization and Analysis in Automated Driving Software, ACM Transactions on Software Engineering and Methodology, 2025, 34(4), Article No.:114, pp. 1-31. 
 1. C. Wu, R. Mo, W. Ding, H. Song, **Z. Li**, Y. Ma, Exploring and characterizing cross-service defects in microservice projects, Information and Software Technology, 2026, 194, 108063.
-1. B. Wang, H. Liu, H. Xie, **Z. Li**, DLAE: Dynamic long-distance attention embedding for enhanced link prediction in complex networks, Physica A: Statistical Mechanics and its Applications, 2026, 131647, In press.
+1. B. Wang, H. Liu, H. Xie, **Z. Li**, DLAE: Dynamic long-distance attention embedding for enhanced link prediction in complex networks, Physica A: Statistical Mechanics and its Applications, 2026, 697, 131647.
 1. X. Zhou, P. Liang, B. Zhang, **Z. Li**, A. Ahmad, M. Shahin, M. Waseem, Exploring the Problems, their Causes and Solutions of AI Pair Programming: A Study on GitHub and Stack Overflow, Journal of System and Software, 2025, 219, 112204. 
 1. H. Liu, M. Lü, X. Zhang, **Z. Li**, G. Chen, Z. Zeng, J. Lü, Optimizing Pinning-Synchronization and Mining Pinned-Nodes of Directed Networks, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, 55(7), 4600-4613.
 1. **Z. Li**, G. Cai, Q. Yu, P. Liang, R. Mo, H. Liu, Bug Priority Change: An Empirical Study on Apache Projects, Journal of Systems and Software, 2024, 212, 112019. 
