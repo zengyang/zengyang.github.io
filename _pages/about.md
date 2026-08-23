@@ -59,7 +59,7 @@ redirect_from:
 
 论文著作
 ======
-发表论文90余篇，其中CCF A、B类及中科院SCI 一、二区论文40余篇，含ESI高被引论文2篇。据Google Scholar统计，总被引2700余次（2026年8月），单篇最高被引1000余次。申请专利软著多项。
+发表论文90余篇，其中CCF A、B类及中科院SCI 一、二区论文40余篇，含ESI高被引论文2篇。据Google Scholar统计，总被引2700余次（2026年8月），单篇最高被引1100余次。申请专利软著多项。
 
 - [Google Scholar主页](https://scholar.google.com/citations?user=Pfde0K0AAAAJ&hl=en)
 - [ResearchGate主页](https://www.researchgate.net/profile/Zengyang-Li/research)
@@ -69,7 +69,7 @@ redirect_from:
 **期刊论文**
 1. **Z. Li**, Y. Li, B. Huang, P. Liang, R. Mo, H. Liu, Y. Ma, Fine-Tuning Code Language Models to Detect Cross-Language Bugs, ACM Transactions on Software Engineering and Methodology, 2026, pp.1-41, DOI: https://doi.org/10.1145/3811920. (软件工程CCF A，SCI一区)
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2026, 35(8), Article No.: 242, Pages 1-43. (软件工程CCF A，SCI一区)
-1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (软件工程CCF B，SCI二区，Google Scholar上被引1090余次，ESI高被引论文)
+1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (软件工程CCF B，SCI二区，Google Scholar上被引1100余次，ESI高被引论文)
 1. **Z. Li**, P. Liang, P. Avgeriou, Application of knowledge-based approaches in software architecture: A systematic mapping study, Information and Software Technology, 2013, 55(5), pp. 777-794. (软件工程CCF B，SCI二区，Google Scholar上被引100余次)
 1. **Z. Li**, B. Huang, Y. Li, R. Mo, P. Liang, H. Liu, Y. Ma, Unveiling Code Clones in the Eclipse IIoT Software Ecosystem, Journal of System and Software, 2026, 239, 112869. (软件工程CCF B，SCI二区)
 1. **Z. Li**, X. Zhang, W. Wang, P. Liang, R. Mo, H. Liu, Automated Detection of Inter-Language Design Smells in Multi-Language Deep Learning Frameworks, Information and Software Technology, 2025,179, 107656. (软件工程CCF B，SCI二区)
