@@ -42,7 +42,7 @@ Publications
 **Journal Articles**
 1. **Z. Li**, Y. Li, B. Huang, P. Liang, R. Mo, H. Liu, Y. Ma, Fine-Tuning Code Language Models to Detect Cross-Language Bugs, ACM Transactions on Software Engineering and Methodology, 2026, pp.1-41. DOI: https://doi.org/10.1145/3811920.
 1. G. Cai, **Z. Li***, P. Liang, R. Mo, H. Liu, Y. Ma, Bug Priority Change Prediction: An Exploratory Study on Apache Software, ACM Transactions on Software Engineering and Methodology, 2026, 35(8), Article No.: 242, Pages 1-43.. 
-1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (1020+ Citations，ESI Highly Cited Paper)
+1. **Z. Li**, P. Avgeriou, P. Liang, A systematic mapping study on technical debt and its management, Journal of Systems and Software, 2015, 101(3), pp. 193-220. (1100+ Citations，ESI Highly Cited Paper)
 1. **Z. Li**, P. Liang, P. Avgeriou, Application of knowledge-based approaches in software architecture: A systematic mapping study, Information and Software Technology, 2013, 55(5), pp. 777-794.
 1. **Z. Li**, B. Huang, Y. Li, R. Mo, P. Liang, H. Liu, Y. Ma, Unveiling Code Clones in the Eclipse IIoT Software Ecosystem, Journal of System and Software, 2026, 239, 112869.
 1. **Z. Li**, X. Zhang, W. Wang, P. Liang, R. Mo, H. Liu, Automated Detection of Inter-Language Design Smells in Multi-Language Deep Learning Frameworks, Information and Software Technology, 2025, 179, 107656. 
