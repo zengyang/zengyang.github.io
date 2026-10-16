@@ -9,7 +9,7 @@ redirect_from:
 
 基本信息
 ======
-**李增扬**，博士，副教授，硕士生导师，任职于华中师范大学计算机学院软件工程系。入选华中师范大学首届“桂子青年学者”。主要研究方向为多编程语言软件、智能化软件工程和智能化教育等。主持国家自然科学基金1项、省部级基金4项、全国重点实验室开放基金1项、横向项目2项，参与国家自然科学基金4项、国家重点研发计划课题1项、华为产学研项目1项。已在TOSEM、JSS、IST、EMSE、TCYB、ASEJ、ASE、ESEM、ICSME、ICPC等知名期刊和会议发表论文90余篇，其中ESI高被引论文2篇，总被引2800余次（2026年9月），单篇最高被引1100余次。指导学生参加“中国软件杯”大学生软件设计大赛、中国大学生计算机设计大赛等竞赛，获得多项国家级奖项。招收学硕（计算机科学与技术）、专硕（软件工程、计算机技术）。
+**李增扬**，博士，副教授，硕士生导师，任职于华中师范大学计算机学院软件工程系。入选华中师范大学首届“桂子青年学者”。主要研究方向为多编程语言软件、智能化软件工程和智能化教育等。主持国家自然科学基金1项、省部级基金4项、全国重点实验室开放基金1项、横向项目2项，参与国家自然科学基金4项、国家重点研发计划课题1项、华为产学研项目1项。已在TOSEM、JSS、IST、EMSE、TCYB、ASEJ、ASE、ESEM、ICSME、ICPC等知名期刊和会议发表论文90余篇，其中ESI高被引论文2篇，总被引2900余次（2026年10月），单篇最高被引1100余次。指导学生参加“中国软件杯”大学生软件设计大赛、中国大学生计算机设计大赛等竞赛，获得多项国家级奖项。招收学硕（计算机科学与技术）、专硕（软件工程、计算机技术）。
 
 **邮箱地址**：zengyangli@ccnu.edu.cn; **办公地点**：华中师范大学南湖校区综合楼7106室。
 
@@ -59,7 +59,7 @@ redirect_from:
 
 论文著作
 ======
-发表论文90余篇，其中CCF A、B类及中科院SCI 一、二区论文40余篇，含ESI高被引论文2篇。据Google Scholar统计，总被引2800余次（2026年9月），单篇最高被引1100余次。申请专利软著多项。
+发表论文90余篇，其中CCF A、B类及中科院SCI 一、二区论文40余篇，含ESI高被引论文2篇。据Google Scholar统计，总被引2900余次（2026年10月），单篇最高被引1100余次。申请专利软著多项。
 
 - [Google Scholar主页](https://scholar.google.com/citations?user=Pfde0K0AAAAJ&hl=en)
 - [ResearchGate主页](https://www.researchgate.net/profile/Zengyang-Li/research)
@@ -79,7 +79,7 @@ redirect_from:
 1. R. Li, P. Liang, Y. Wang, Y. Cai, W. Sun, **Z. Li**, Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub, ACM Transactions on Software Engineering and Methodology, 2026, 35(10), Article No.: 320, Pages 1-30. (软件工程CCF A，SCI一区)
 1. X. Zhou, R. Li, P. Liang, B. Zhang, M. Shahin, **Z. Li**, C. Yang, Using LLMs in Generating Design Rationale for Software Architecture Decisions, ACM Transactions on Software Engineering and Methodology, 2026, 35(8), Article No.: 225, Pages 1-38. (软件工程CCF A，SCI一区)
 1. H. Xie, H. Liu, **Z. Li**, Z. Zeng, Dual-Geometric Fuzzy Graph Learning with Coarse-to-Fine Propagation for Tabular Data, IEEE Transactions on Fuzzy Systems, 2026, DOI: https://doi.org/10.1109/TFUZZ.2026.3735803. (SCI一区)
-1. Y. Fu, P. Liang, A. Tahir, **Z. Li**, M. Shahin, J. Yu, Security Weaknesses of Copilot-Generated Code in GitHub Projects: An Empirical Study, ACM Transactions on Software Engineering and Methodology, 2025, 34(8), Article No.: 218, Pages 1-34. (软件工程CCF A，SCI一区，Google Scholar上被引200余次)
+1. Y. Fu, P. Liang, A. Tahir, **Z. Li**, M. Shahin, J. Yu, Security Weaknesses of Copilot-Generated Code in GitHub Projects: An Empirical Study, ACM Transactions on Software Engineering and Methodology, 2025, 34(8), Article No.: 218, Pages 1-34. (软件工程CCF A，SCI一区，Google Scholar上被引270余次)
 1. R. Mo, D. Wang, W. Zhan, Y. Jiang, Y. Wang, Y. Zhao, **Z. Li**, Y. Ma, Assessing and Analyzing the Correctness of GitHub Copilot’s Code Suggestions, ACM Transactions on Software Engineering and Methodology, 2025, 34(7), Article No.: 194, Pages 1-32. (软件工程CCF A，SCI一区)
 1. Y. Jiang, R. Mo, W. Zhan, D. Wang, **Z. Li**, Y. Ma, Leveraging Modular Architecture for Bug Characterization and Analysis in Automated Driving Software, ACM Transactions on Software Engineering and Methodology, 2025, 34(4), Article No.:114, pp. 1-31. (软件工程CCF A，SCI一区)
 1. C. Wu, R. Mo, W. Ding, H. Song, **Z. Li**, Y. Ma, Exploring and characterizing cross-service defects in microservice projects, Information and Software Technology, 2026, 194, 108063. (软件工程CCF B，SCI二区)
